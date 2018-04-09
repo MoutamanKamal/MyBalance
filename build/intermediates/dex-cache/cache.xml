@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\4d7954b753d25d210b847400820b03cc183e187c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_337ee2a3618dbd10bd76055c78eda07dbad1cc7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\08361f9dcd7687f23aabe57342e051faaafa685c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_7c4db61a5d7668a388a9313234ab215689d5c606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\ecc799ce0a472bcd36231b0459abbfe7c54e5830\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_7258b2a656bd62d67b2ac59fcec347d79ad43993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\0d5644d9e9381303fcc76bd00236e3d9aa507393\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_21d408a3c9bbe11fbc77f86a0d43cba68e4b589e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\79ea0849bc701ec4d737e4d200128c7147b316bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_2030ebf250094444580cfb17a78ee21c17c85ee7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\08361f9dcd7687f23aabe57342e051faaafa685c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c4db61a5d7668a388a9313234ab215689d5c606\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_1a67f14fe3c6b6b9b76518c98259dedfb896ccc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\3702104540bd62f81e459e0c63c941b483d82d3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93b511bd9d180a5aa8e539528dfb1791f231da01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_1a67f14fe3c6b6b9b76518c98259dedfb896ccc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\79ea0849bc701ec4d737e4d200128c7147b316bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2030ebf250094444580cfb17a78ee21c17c85ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\0d5644d9e9381303fcc76bd00236e3d9aa507393\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21d408a3c9bbe11fbc77f86a0d43cba68e4b589e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\9bbedb38f445c48415f64cd8cbe07c18ae4b5f3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e4015cd12b6f97aaf02d31025828eff3f58ae92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\19e2971b1d4cafd046d021b2903a74dd0893383e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a06d6f52c69c47c189c9b892a61d64ecfbeecae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\20172fd07ff9bc1a2a906f4527a2d38788b93787\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_7cc68a0a50f14932d512faaa05b726a3a5e1a29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\19e2971b1d4cafd046d021b2903a74dd0893383e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_a06d6f52c69c47c189c9b892a61d64ecfbeecae9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\20172fd07ff9bc1a2a906f4527a2d38788b93787\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cc68a0a50f14932d512faaa05b726a3a5e1a29b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2d9fdb9eb242d12be001ec328f5f5b567a89028f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\3702104540bd62f81e459e0c63c941b483d82d3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_93b511bd9d180a5aa8e539528dfb1791f231da01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\ecc799ce0a472bcd36231b0459abbfe7c54e5830\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7258b2a656bd62d67b2ac59fcec347d79ad43993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\35af7f22feefc5da5ec297550c93868a4965bf48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2a2d8688be5afa1f0dd824a55fec8eec6de418f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\3e0666f6fd941953176aa5e6d9486cf18d7f03c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_04adbf1eeab756b0aadeeb90a202bd081d9371a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\35af7f22feefc5da5ec297550c93868a4965bf48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_d2a2d8688be5afa1f0dd824a55fec8eec6de418f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\3e0666f6fd941953176aa5e6d9486cf18d7f03c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04adbf1eeab756b0aadeeb90a202bd081d9371a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c5afaeaafb093583fac6a222546e43df4565d64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\539e175fc76377ffa093fdacc8ecea33b4839180\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_0ecf12d77bfff3b8be62f45641841f3150e520c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c5afaeaafb093583fac6a222546e43df4565d64c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.android\build-cache\539e175fc76377ffa093fdacc8ecea33b4839180\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ecf12d77bfff3b8be62f45641841f3150e520c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c5b53a7af3b8e72f303c55a25519e00be7db905">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_991603584b4fb68b8ec15343e0c2049eea745f21\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\core-3.2.1_585969cccf4204351e83cd47c3ecea640fb2f32c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moutaman\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_585969cccf4204351e83cd47c3ecea640fb2f32c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Moutaman\.android\build-cache\4d7954b753d25d210b847400820b03cc183e187c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Moutaman\AndroidStudioProjects\MyBalance\app\build\intermediates\pre-dexed\debug\classes_337ee2a3618dbd10bd76055c78eda07dbad1cc7c.jar" />
+    </item>
+
+</items>
