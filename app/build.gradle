@@ -27,4 +27,5 @@ dependencies {
     compile 'me.dm7.barcodescanner:zxing:1.9'
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+    compile 'com.google.android.gms:play-services-vision:9.8.0'
 }
